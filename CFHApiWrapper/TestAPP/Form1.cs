@@ -22,7 +22,7 @@ namespace TestAPP
         private void button1_Click(object sender, EventArgs e)
         {
 
-            pictureBox1.Load(hentai.GetNaughtyNeko());
+            pictureBox1.Load(hentai.GetYuri());
 
         }
     }
